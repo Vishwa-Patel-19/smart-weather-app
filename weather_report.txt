@@ -28,3 +28,21 @@ Temperature : 36 C
 Condition   : Sunny
 Humidity    : 18
 ------------------------------
+
+Weather Report for: Ahmedabad
+Temperature : 36 C
+Condition   : Smoke
+Humidity    : 19
+------------------------------
+
+Weather Report for: Bombay
+Temperature : 32 C
+Condition   : Smoke
+Humidity    : 59
+------------------------------
+
+Weather Report for: Viatnam
+Temperature : 34 C
+Condition   : Haze
+Humidity    : 60
+------------------------------

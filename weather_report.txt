@@ -1,0 +1,30 @@
+
+Weather Report for: Ahmedabad
+Temperature : 35 C
+Condition   : Smoke
+Humidity    : 23
+------------------------------
+
+Weather Report for: Mumbai
+Temperature : 35 C
+Condition   : Smoke
+Humidity    : 30
+------------------------------
+
+Weather Report for: Jaipur
+Temperature : 38 C
+Condition   : Haze
+Humidity    : 14
+------------------------------
+
+Weather Report for: Bombay
+Temperature : 35 C
+Condition   : Smoke
+Humidity    : 30
+------------------------------
+
+Weather Report for: Pune
+Temperature : 36 C
+Condition   : Sunny
+Humidity    : 18
+------------------------------
